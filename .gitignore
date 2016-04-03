@@ -1,0 +1,11 @@
+.DS_STORE
+
+node_modules
+
+dev
+npm-debug.log
+
+*.sublime-workspace
+
+*.sublime-project
+*.nodemon-find-ref

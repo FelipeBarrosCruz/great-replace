@@ -1,0 +1,32 @@
+{
+  "name": "great-replace",
+  "version": "1.0.0",
+  "description": "Replace occurences with HashMap Object or Replaceble Object Type",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FelipeBarrosCruz/great-replace.git"
+  },
+  "author": "FelipeBarrosCruz <>",
+  "keywords": [
+    "replace",
+    "javascript",
+    "node",
+    "object",
+    "replace",
+    "str",
+    "replace"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FelipeBarrosCruz/great-replace/issues"
+  },
+  "homepage": "https://github.com/FelipeBarrosCruz/great-replace#readme",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
